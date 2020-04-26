@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EXTools
 {
-    public partial class Form1 : Form
+    public partial class Box : Form
     {
-        public Form1()
+        public Box()
         {
             InitializeComponent();
         }
